@@ -101,5 +101,4 @@ int opponentarray12 [][18] = {{0, CSeahawks, CPatriots, CEagles, CDolphins, CRam
 {0, CPanthers, CGiants, CCowboys, CRedskins, 0, CChiefs, CSaints, CVikings, CRaiders, CChargers, CPanthers, CFalcons, CBroncos, CEagles, CSaints, CRams, CFalcons},
 {0, CPatriots, CChargers, CLions, CTexans, CVikings, CSteelers, CBills, CColts, CBears, CDolphins, 0, CJaguars, CTexans, CColts, CJets, CPackers, CJaguars},
 {0, CSaints, CRams, CBengals, CBuccaneers, CFalcons, CVikings, CGiants, CSteelers, CPanthers, 0, CEagles, CCowboys, CGiants, CRavens, CBrowns, CEagles, CCowboys}};
-
 */
