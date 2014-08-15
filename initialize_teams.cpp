@@ -1,8 +1,10 @@
 #include "team_cvals.cpp"
+//#include "2012Data.cpp"
 #include "2013Data.cpp"
+#include "2014Data.cpp"
 
 //These are the Rank-Arrays for each team.
-int RCardinals [19]= {RCardinals13[19]};//{0, 26, 25, 21, 22, 19, 19, 21, 24, 17, 17, 16, 0, 0, 0, 0, 0, 0, 0};
+int RCardinals [19]= {0, 26, 25, 21, 22, 19, 19, 21, 24, 17, 17, 16, 0, 0, 0, 0, 0, 0, 0};
 int RFalcons [19]= {0, 2, 4, 6, 14, 16, 22, 23, 20, 23, 26, 29, 0, 0, 0, 0, 0, 0, 0};
 int RRavens [19]= {0, 8, 11, 11, 11, 14, 9, 12, 14, 15, 21, 18, 0, 0, 0, 0, 0, 0, 0};
 int RBills [19]= {0, 30, 29, 26, 24, 23, 23, 25, 21, 20, 23, 26, 0, 0, 0, 0, 0, 0, 0};
