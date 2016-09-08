@@ -6941,12 +6941,17 @@
       <height>22</height>
      </rect>
     </property>
-    <property name="currentText">
-     <string>2015</string>
+    <property name="currentText" stdset="0">
+     <string>2016</string>
     </property>
     <property name="currentIndex">
      <number>0</number>
     </property>
+    <item>
+     <property name="text">
+      <string>2016</string>
+     </property>
+    </item>
     <item>
      <property name="text">
       <string>2015</string>
